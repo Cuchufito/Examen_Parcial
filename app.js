@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function(){
 
 const btn_guardar = document.getElementById("btn_guardar");
 btn_guardar.addEventListener("click", function() {
-    console.log('haciendo click ');
+    console.log('Holis');
     alert("Correcto");
 
     const nombre= document.getElementById("txt_nombre").value;
